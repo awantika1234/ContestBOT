@@ -1,2 +1,2 @@
 # ContestBOT
-using python and BeautifulSoup
+using python, BeautifulSoup and selenium
