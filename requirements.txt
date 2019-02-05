@@ -3,3 +3,4 @@ Package                              Version
 BeautifulSoup4                      4.6.3
 selenium                            3.141.0
 lxml                                4.2.5
+ChromeDriver                        2.46
